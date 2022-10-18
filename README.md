@@ -4,19 +4,18 @@
   - CAN(Controller Area Network) [2012~2017]
   - Image Recognition for ADAS [2017~]   
   - Functional Safety(ISO26262) [2018~]  
-- :computer: My favorite language is Rust and C++.  
+- :computer: Language  
   - C [2009~]
-  - C++ [2017~]
-  - Rust [2021~]
+  - C++ [2017~] :heart:
+  - Rust [2021~] :heart:
   - Python 2.x [2010~2011]
   - Python 3.x [2015~]
   - TypeScript [2022~]
   - Visual Basic [2009~2010]
-- 🌱 I’m currently learning Frontend technologies, such as TypeScript, React ant Three.js.  
 - :racehorse: My AtCoder account is https://atcoder.jp/users/minyoru .
 - :trophy: Certification
-  - AFS(Automotive Functional Safety Professional)
-  - 
+  - AFS(Automotive Functional Safety Professional) [2020]
+  - CSM(Certified Scrum Master) [2022]
 
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minoru-github&layout=compact&show_icons=true&theme=dracula&langs_count10" />
