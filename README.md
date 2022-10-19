@@ -1,4 +1,4 @@
-## Hi thre!:sheep:
+## Hi there!:sheep:
 - :blue_car: I'm software engineer.  
   - Embedded System [2012~]  
   - CAN(Controller Area Network) [2012~2017]
