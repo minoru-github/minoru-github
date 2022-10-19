@@ -1,9 +1,10 @@
 ## Hi there!:sheep:
-- :blue_car: I'm software engineer.  
-  - Embedded System [2012~]  
-  - CAN(Controller Area Network) [2012~2017]
-  - Image Recognition for ADAS [2017~]   
-  - Functional Safety(ISO26262) [2018~]  
+- :blue_car: Work
+  - software engineer [2012~]  
+    - Embedded System [2012~]  
+    - CAN(Controller Area Network) [2012~2017]
+    - Image Recognition for ADAS [2017~]   
+    - Functional Safety(ISO26262) [2018~]  
 - :computer: Language  
   - C [2009~]
   - C++ [2017~] :heart:
@@ -12,7 +13,22 @@
   - Python 3.x [2015~]
   - TypeScript [2022~]
   - Visual Basic [2009~2010]
-- :racehorse: My AtCoder account is https://atcoder.jp/users/minyoru .
+- :rocket: Tech stacks
+  - version control system
+    - git, GitHub, GitLab, TortoiseGit
+    - subversion, TortoiseSVN
+  - WEB(Frontend)
+    - React, Three.js, html, css
+  - Machine Learning
+    - Tensorflow
+  - Design
+    - PlantUML, drawio, EA
+  - Communication
+    - Confluence
+    - Jira, Track, Redmine
+    - Teams
+- :racehorse: Programming contest
+  - AtCoder https://atcoder.jp/users/minyoru .
 - :trophy: Certification
   - AFS(Automotive Functional Safety Professional) [2020]
   - CSM(Certified Scrum Master) [2022]
