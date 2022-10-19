@@ -32,6 +32,13 @@
 - :trophy: Certification
   - AFS(Automotive Functional Safety Professional) [2020]
   - CSM(Certified Scrum Master) [2022]
+- :beers:　Apps
+  - SegmentTree Viewer  
+  https://minoru-github.github.io/react-exercise/
+  - 3D Annotation Tool(Under Depelopment)  
+  https://minoru-github.github.io/three-app/
+  - Converter of BinaryData(.bin) to PointCloudData(.pcd)  
+  https://github.com/minoru-github/bin-to-pcd
 
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minoru-github&layout=compact&show_icons=true&theme=dracula&langs_count10" />
