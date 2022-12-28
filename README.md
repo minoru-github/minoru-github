@@ -6,13 +6,16 @@
     - Image Recognition for ADAS [2017~]   
     - Functional Safety(ISO26262) [2018~]  
 - :computer: Language  
-  - C [2009~]
-  - C++ [2017~] :heart:
-  - Rust [2021~] :heart:
-  - Python 2.x [2010~2011]
-  - Python 3.x [2015~]
-  - TypeScript [2022~]
-  - Visual Basic [2009~2010]
+  - C [2009-]
+  - Visual Basic [2009-2010]
+  - Python 2.x [2010-2011]
+  - Matlab/Simulink [2013-2017]
+  - Python 3.x [2015-]
+  - C++ [2017-] :heart:
+  - Rust [2021-] :heart:
+  - TypeScript [2022-]
+  - C#[2022-]
+
 - :rocket: Tech stacks
   - version control system
     - git, GitHub, GitLab, TortoiseGit
